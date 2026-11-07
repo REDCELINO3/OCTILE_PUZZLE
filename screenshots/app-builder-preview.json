@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Octile",
+      "hasCanvas": false,
+      "bodyTextLen": 5132,
+      "bodyTextHash": "2984d742089d81f235a864d0a5046e62e9a6621fa7e268edd62d4e8b52ba674a",
+      "bodyTextPrefix": "8-PUZZLE Octile You arrange the numbers. A* answers with the few",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Octile",
+      "hasCanvas": false,
+      "bodyTextLen": 5132,
+      "bodyTextHash": "2984d742089d81f235a864d0a5046e62e9a6621fa7e268edd62d4e8b52ba674a",
+      "bodyTextPrefix": "8-PUZZLE Octile You arrange the numbers. A* answers with the few",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
